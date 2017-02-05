@@ -1,0 +1,24 @@
+{
+  "name": "space-tim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack"
+  },
+  "author": "Yahor Zhuk",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "file-loader": "^0.10.0",
+    "html-loader": "^0.4.4",
+    "html-webpack-plugin": "^2.28.0",
+    "raw-loader": "^0.5.1",    
+    "style-loader": "^0.13.1",    
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"   
+  }
+}
